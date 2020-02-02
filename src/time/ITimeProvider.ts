@@ -1,0 +1,3 @@
+interface ITimeProvider {
+    getTime(): Number
+}
