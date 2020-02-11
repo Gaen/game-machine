@@ -1,3 +1,3 @@
-interface ITimeProvider {
+export interface ITimeProvider {
     getTime(): Number
 }

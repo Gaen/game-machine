@@ -3,6 +3,7 @@ import Ajv from "ajv";
 import QueryContext from "./query/QueryContext";
 import CommandContext from "./command/CommandContext";
 import Memory from "./memory/Memory";
+import {ITimeProvider} from "./time/ITimeProvider";
 
 export default class <TData>{
 

@@ -1,6 +1,7 @@
 import Ajv from 'ajv';
 
 import Machine from "./Machine";
+import {ITimeProvider} from "./time/ITimeProvider";
 
 export default class <TMemoryData>{
 

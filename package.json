@@ -4,6 +4,7 @@
   "author": "Gaen",
   "license": "MIT",
   "main": "dist/MachineFactory.js",
+  "types": "dist/MachineFactory.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",

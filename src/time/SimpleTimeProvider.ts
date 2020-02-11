@@ -1,6 +1,6 @@
-import './ITimeProvider';
+import {ITimeProvider} from "./ITimeProvider";
 
-export default class implements ITimeProvider {
+export class SimpleTimeProvider implements ITimeProvider {
     public getTime(): Number {
         return Date.now();
     }
