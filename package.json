@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "author": "Gaen",
   "license": "MIT",
+  "main": "dist/MachineFactory.js",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
