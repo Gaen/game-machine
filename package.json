@@ -20,7 +20,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "ajv": "^6.11.0",
+    "ajv": "^6.12.3",
     "lodash": "^4.17.15"
   }
 }
